@@ -1,0 +1,9 @@
+main:
+  - title: "Job Titles"
+    url: /jobs/
+  - title: "By Skill"
+    url: /skills/
+  - title: "By Type"
+    url: /types/
+  - title: "About"
+    url: /about/
